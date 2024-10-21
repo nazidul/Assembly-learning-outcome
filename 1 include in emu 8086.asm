@@ -47,12 +47,6 @@ include "emu8086.inc"
 ;  be after "org 100h" directive (for com files).
 
 
-
-
-
-
-
-
 org     100h
 
 
